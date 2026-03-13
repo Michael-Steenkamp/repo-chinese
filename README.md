@@ -1,6 +1,8 @@
 <a id="readme-top"></a>
 <div align="center">
-<h1>:school_satchel: Chinese :cn:</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=10000&color=9CAFB7&center=true&vCenter=true&width=750&lines=./repo-chinese" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
@@ -16,14 +18,16 @@
 </div>
 
 <div align="center">
-<h2>:page_facing_up: Vocabulary</h2>
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/4a11e13c-83b6-4e9d-91d4-abe4360b4755" width="500" /></td>
-    <td><img src="https://github.com/user-attachments/assets/1b36b13a-68e0-4afe-8643-602fb22b8b7b" width="500" /></td>
-    <td><img src="https://github.com/user-attachments/assets/876d7690-e4aa-46e1-b643-b50170ba9737" width="500" /></td>
-  </tr>
-</table>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=10000&color=9CAFB7&center=true&vCenter=true&width=750&lines=./repo-chinese/vocabulary" alt="Typing SVG" />
+  </a>
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/4a11e13c-83b6-4e9d-91d4-abe4360b4755" width="500" /></td>
+      <td><img src="https://github.com/user-attachments/assets/1b36b13a-68e0-4afe-8643-602fb22b8b7b" width="500" /></td>
+      <td><img src="https://github.com/user-attachments/assets/876d7690-e4aa-46e1-b643-b50170ba9737" width="500" /></td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
