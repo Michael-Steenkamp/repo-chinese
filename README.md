@@ -14,13 +14,16 @@
 [![Stars][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![License][license-shield]][license-url]
-
 </div>
 
+---
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=10000&color=9CAFB7&center=true&vCenter=true&width=750&lines=./repo-chinese/vocabulary" alt="Typing SVG" />
-  </a>
+  
+  ### <code>> ls ./repo-chinese/vocabulary</code>
+
+  > A terminal-based Python flashcard application built to assist in learning and practicing Chinese vocabulary through spaced repetition and command-line interactions.
+  
   <table>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/4a11e13c-83b6-4e9d-91d4-abe4360b4755" width="500" /></td>
@@ -31,6 +34,8 @@
 </div>
 
 <div align="center">
+
+---
 
 **愛**
 <br>
